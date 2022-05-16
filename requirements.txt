@@ -7,5 +7,4 @@ scipy
 pandas
 scikit-learn
 sympy
-statsmodels.api
 jupyterlab_launcher>=0.5.0
